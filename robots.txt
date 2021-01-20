@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://khasizadaj.github.io/bloggy/sitemap.xml
