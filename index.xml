@@ -6,7 +6,17 @@
     <description>Recent content on J. Khasizada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 17:32:06 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 20:00:39 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo ilə yeni bloq</title>
+      <link>https://javidkhasizada.xyz/posts/hugo-new-blog/</link>
+      <pubDate>Mon, 25 Jan 2021 20:00:39 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/hugo-new-blog/</guid>
+      <description>Giriş Bir müddət öncə qərara gəldim ki, niyə də öz adıma bloqum olmasın. İndiyədək Blogger-də, WordPress-də hazırladığım olub, amma ya funkisonal olmayıb deyə, ya da daha yaxşı özəllikləri ödənişli olub deyə heç ləzzət etmirdi. Bu səbəbdən düşündüm, bəlkə, özüm hazırlayım. Başladım dizaynını etməyə və minimalist bir bloq hazırladım.
+ Bundan sonra başladım artıq dizaynı koda çevirməyə və demək olar ki, 60-70%-ni artıq bitirmişdim… Ta ki, Hugo barədə öyrənənə qədər. Amma bundan əvvəl gəl ümumiyyətlə sənə vebsayt tipləri haqqında məlumat verim.</description>
+    </item>
+    
     <item>
       <title>Təqdimat &#34;Trick&#34;ləri</title>
       <link>https://javidkhasizada.xyz/posts/teqdimat-trickleri/</link>
