@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Khasizada</title>
-    <link>https://javidkhasizada.xyz/</link>
-    <description>Recent content on J. Khasizada</description>
+    <title>Tools on J. Khasizada</title>
+    <link>https://javidkhasizada.xyz/categories/tools/</link>
+    <description>Recent content in Tools on J. Khasizada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 20:00:39 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 20:00:39 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo ilə yeni bloq</title>
       <link>https://javidkhasizada.xyz/posts/hugo-ile-yeni-blog/</link>
@@ -37,40 +37,12 @@
     </item>
     
     <item>
-      <title>Stefan Zweig&#39;ın Həyatı</title>
-      <link>https://javidkhasizada.xyz/posts/stefan-zweigin-heyati/</link>
-      <pubDate>Sat, 22 Feb 2020 00:51:45 +0100</pubDate>
-      
-      <guid>https://javidkhasizada.xyz/posts/stefan-zweigin-heyati/</guid>
-      <description>Gənc Zweig Zweig Vyanada varlı yəhudi ailəsində anadan olur. Onun atası tekstil istehsalçısı idi, anası isə Yəhudi bankçı ailəsindən gəlirdi. O artıq gənc yaşlarından ədəbiyyat jurnallarına şeir və məqalələrini göndərir və məşhur ədəbiyyat adamları ilə əlaqə saxlayırdı. O həmçinin əlyazma kolleksiyası yığmağa başlayır. Bu kolleksiyaya Goethe və Beethoven&amp;rsquo;in işlərindən əlavə Motzart&amp;rsquo;ın öz əl yazısı ilə yaratdığı əsərlərini əlavə edir.
-Stefan Zweig, ayaq üstə olan, qardaşı Alfred ilə birlikdə (1900-cü il, Vyana)Universitet həyatı Vyana Universitetində Fəlsəfə üzrə təhsil alandan sonra 1904-cü ildə doktorantura dərəcəsini alır.</description>
-    </item>
-    
-    <item>
       <title>Siz varsınızsa, təqdimat da var</title>
       <link>https://javidkhasizada.xyz/posts/siz-varsinizsa-teqdimat-da-var/</link>
       <pubDate>Wed, 04 Dec 2019 00:51:45 +0100</pubDate>
       
       <guid>https://javidkhasizada.xyz/posts/siz-varsinizsa-teqdimat-da-var/</guid>
       <description>Niyə təqdimat hazırlayırıq? Ən geci universitetin ilk günlərindən bizdən təqdimat tələb edirlər. Məndə də bu elə həmin vaxt olmuşdu. İlk dəfə 2017-ci ildə “İqtisadiyyata giriş” fənnindən sərbəst iş üçün təqdimat hazırlamalı olmuşdum. O gündən bəri bir çox yarış, layihə, biznes ideyası və s. yerlərdə təqdimat düzəltmək lazım gəlib və gələcəkdə də düzəltməli olacağım dəqiqdi. Sözümün canı ondan ibarətdir ki, hara gedirsiz gedin sizə təqdimat bacarığı lazım olacaq. Ona görə də bunu nə qədər tez öyrənsək o qədər yaxşıdır.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://javidkhasizada.xyz/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://javidkhasizada.xyz/archive/</guid>
-      <description>archive</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://javidkhasizada.xyz/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://javidkhasizada.xyz/search/</guid>
-      <description></description>
     </item>
     
   </channel>

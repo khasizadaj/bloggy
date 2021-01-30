@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://javidkhasizada.xyz/posts/hugo-new-blog/</loc>
+    <loc>https://javidkhasizada.xyz/posts/hugo-ile-yeni-blog/</loc>
     <lastmod>2021-01-25T20:00:39+01:00</lastmod>
   </url>
   
@@ -33,13 +33,33 @@
   </url>
   
   <url>
-    <loc>https://javidkhasizada.xyz/tags/programming/</loc>
+    <loc>https://javidkhasizada.xyz/categories/programming/</loc>
     <lastmod>2021-01-25T20:00:39+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://javidkhasizada.xyz/tags/</loc>
     <lastmod>2021-01-25T20:00:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://javidkhasizada.xyz/categories/tools/</loc>
+    <lastmod>2021-01-25T20:00:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://javidkhasizada.xyz/tags/free/</loc>
+    <lastmod>2020-11-21T18:19:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://javidkhasizada.xyz/tags/website-builder/</loc>
+    <lastmod>2020-11-21T18:19:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://javidkhasizada.xyz/posts/odenissiz-vebsayt-lazim-deyil/</loc>
+    <lastmod>2020-11-21T18:19:56+01:00</lastmod>
   </url>
   
   <url>
