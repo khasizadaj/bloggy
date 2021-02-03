@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alətlər on J. Khasizada</title>
+    <link>https://javidkhasizada.xyz/categories/al%C9%99tl%C9%99r/</link>
+    <description>Recent content in Alətlər on J. Khasizada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 20:00:39 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/categories/al%C9%99tl%C9%99r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo ilə yeni bloq</title>
+      <link>https://javidkhasizada.xyz/posts/hugo-ile-yeni-blog/</link>
+      <pubDate>Mon, 25 Jan 2021 20:00:39 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/hugo-ile-yeni-blog/</guid>
+      <description>Giriş Bir müddət öncə qərara gəldim ki, niyə də öz adıma bloqum olmasın. İndiyədək Blogger-də, WordPress-də hazırladığım olub, amma ya funkisonal olmayıb deyə, ya da daha yaxşı özəllikləri ödənişli olub deyə heç ləzzət etmirdi. Bu səbəbdən düşündüm, bəlkə, özüm hazırlayım. Başladım dizaynını etməyə və minimalist bir bloq hazırladım.
+ Bundan sonra başladım artıq dizaynı koda çevirməyə və demək olar ki, 60-70%-ni artıq bitirmişdim… Ta ki, Hugo barədə öyrənənə qədər. Amma bundan əvvəl gəl ümumiyyətlə sənə vebsayt tipləri haqqında məlumat verim.</description>
+    </item>
+    
+    <item>
+      <title>Ödənişsiz vebsayt lazım deyil?</title>
+      <link>https://javidkhasizada.xyz/posts/odenissiz-vebsayt-lazim-deyil/</link>
+      <pubDate>Sat, 21 Nov 2020 18:19:56 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/odenissiz-vebsayt-lazim-deyil/</guid>
+      <description>Sayt yaratmaq istəyirsən, amma WordPress-ə ödəniş etməyə əlin gəlmirsə, yenicə tapdığım vebsayt yaratma alətini sənlə bölüşüm. Pulsuz və yetəri qədər güclü bir platforma… IM Creator.
+Ana səhifədən görüntüAdından da göründüyü kimi bu sayt yaradıcı şəxslər üçün nəzərdə tutulub. Öz sloqanlarında dediyi kimi “Yaradıcılar tərəfindən, Yaradıcılar üçün”, fokus məhz bu yöndədi. Bu barədə yazmağımın əsas səbəbi onların təklif etdiyi pulsuz paket növüdür ki, bu paket vasitəsilə tələbələr də daxil olmaqla bir çox şəxs ödənişsiz sayt yarada bilər.</description>
+    </item>
+    
+    <item>
+      <title>Təqdimat &#34;Trick&#34;ləri</title>
+      <link>https://javidkhasizada.xyz/posts/teqdimat-trickleri/</link>
+      <pubDate>Sun, 09 Aug 2020 17:32:06 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/teqdimat-trickleri/</guid>
+      <description>Trick 1: The Rule of JAXA DisclaimerƏvvəlki bloqda da vurğuladığım kimi hər şrift bütün kompüterlərdə olmur. Buna fikir verməyəndə istədiyimiz nəticəni ala bilmirik və təqdimat zamanı slaydlar korlanır. Amma bəzən elə olur ki, istifadə etdiyimiz şrift təqdimata, təqdimat da şriftə sözün əsl mənasında yaraşır. Bu hal ilə qarşılaşanda ya dədə-baba qaydası ilə gedib hər kəsdə olan şrift istifadə edəcik və istəyimiz ürəyimizdə qalacaq, ya da “The Rule of JaXa”-dan istifadə edə bilərsiz.</description>
+    </item>
+    
+    <item>
+      <title>Siz varsınızsa, təqdimat da var</title>
+      <link>https://javidkhasizada.xyz/posts/siz-varsinizsa-teqdimat-da-var/</link>
+      <pubDate>Wed, 04 Dec 2019 00:51:45 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/siz-varsinizsa-teqdimat-da-var/</guid>
+      <description>Niyə təqdimat hazırlayırıq? Ən geci universitetin ilk günlərindən bizdən təqdimat tələb edirlər. Məndə də bu elə həmin vaxt olmuşdu. İlk dəfə 2017-ci ildə “İqtisadiyyata giriş” fənnindən sərbəst iş üçün təqdimat hazırlamalı olmuşdum. O gündən bəri bir çox yarış, layihə, biznes ideyası və s. yerlərdə təqdimat düzəltmək lazım gəlib və gələcəkdə də düzəltməli olacağım dəqiqdi. Sözümün canı ondan ibarətdir ki, hara gedirsiz gedin sizə təqdimat bacarığı lazım olacaq. Ona görə də bunu nə qədər tez öyrənsək o qədər yaxşıdır.</description>
+    </item>
+    
+  </channel>
+</rss>
