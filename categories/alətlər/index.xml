@@ -6,7 +6,17 @@
     <description>Recent content in Alətlər on J. Khasizada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 20:00:39 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/categories/al%C9%99tl%C9%99r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 17:11:23 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/categories/al%C9%99tl%C9%99r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>G Sheet</title>
+      <link>https://javidkhasizada.xyz/posts/python-ile-google-sheets-elaqelendirmesi/</link>
+      <pubDate>Sun, 07 Feb 2021 17:11:23 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/python-ile-google-sheets-elaqelendirmesi/</guid>
+      <description>Python proqramlaşdırma dilinin asanlığına görə bir çox başqa proqramla əlaqələndirilməsi mümkündür ki, bunlardan biri də Google Sheets-dir (bundan sonra “GS” deyəcəm). GS bulud üzərində cədvəl yaratmağa kömək edən bir platformadır. Bu məqalədə həmin platformada olan məlumatları Python ilə necə istifadə edilə biləcəyi haqda danışacam.
+Qoşulmaq üçün lazımi işlər GS-dən istifadə edə bilmək üçün ilk olaraq mail hesabınla Google Cloud Console-da hesab yaradıb Google Drive API (GD API) və Google Sheets API-ı (GS API) aktivləşdirməyin lazım olacaq.</description>
+    </item>
+    
     <item>
       <title>Hugo ilə yeni bloq</title>
       <link>https://javidkhasizada.xyz/posts/hugo-ile-yeni-blog/</link>
