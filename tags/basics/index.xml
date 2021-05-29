@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on J. Khasizada</title>
+    <link>https://javidkhasizada.xyz/tags/basics/</link>
+    <description>Recent content in Basics on J. Khasizada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 10:00:00 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python-da classlar (Hissə 1): Classlar və obyektlərin yaradılması</title>
+      <link>https://javidkhasizada.xyz/posts/pythonda-classlar-hisse-1-classlar-ve-obyektlerin-yaradilmasi/</link>
+      <pubDate>Sat, 29 May 2021 10:00:00 +0100</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/pythonda-classlar-hisse-1-classlar-ve-obyektlerin-yaradilmasi/</guid>
+      <description>Python dilində demək olar ki, hər şey obyektdir. Obyekt sadə şəkildə desək, məlumatların (dəyişənlər) və metodların (ingcə. method) birləşməsidir. Class da bunlardan biridir. Bəs class-ı başqalarından fərqli edən nədir? O elə bir obyektdir ki, başqa obyektlərin yaradılmasında istifadə edilə bilir.
+ “Metod” və “funksiya” sözləri class kontekstində eyni mənanı daşıyır və bu məqalədə “metod” sözünü məhz bu mənada işlədəcəm.
+ Biz classı evin sxeminə bənzədə bilərik. Bu sxemdə ev haqqında bir çox məlumatı (evin ölçülərini, tikilmə təlimatlarını və s.</description>
+    </item>
+    
+  </channel>
+</rss>
