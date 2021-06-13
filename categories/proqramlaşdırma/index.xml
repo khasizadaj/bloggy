@@ -6,7 +6,17 @@
     <description>Recent content in Proqramlaşdırma on J. Khasizada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 10:00:00 +0100</lastBuildDate><atom:link href="https://javidkhasizada.xyz/categories/proqramla%C5%9Fd%C4%B1rma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 10:09:09 +0200</lastBuildDate><atom:link href="https://javidkhasizada.xyz/categories/proqramla%C5%9Fd%C4%B1rma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python-da classlar (Hissə 2): Dəyişənlər</title>
+      <link>https://javidkhasizada.xyz/posts/pythonda-classlar-hisse-2-deyisenler/</link>
+      <pubDate>Sun, 13 Jun 2021 10:09:09 +0200</pubDate>
+      
+      <guid>https://javidkhasizada.xyz/posts/pythonda-classlar-hisse-2-deyisenler/</guid>
+      <description>Giriş Əvvəlki məqalədə class və obyektlərin yaradılması haqqında bəhs etmişdim. İndi isə classda dəyişənlər haqqında danışmaq lazımdır. Dəyişənlər (ingcə. variables) obyekt daxilində məlumatları yadda saxlamaq üçün istifadə olunur. Classda iki növ dəyişən tipi mövcuddur:
+ İnstansiya dəyişənləri (ingcə. instance variables) Class dəyişənləri (ingcə. class variables)  class Person: nationality = &amp;#34;Azerbaijani&amp;#34;	# &amp;lt;- class variable def __init__(self, f_name, l_name, age): self.f_name = f_name	# &amp;lt;--|  self.l_name = l_name	# &amp;lt;--| instance variables self.</description>
+    </item>
+    
     <item>
       <title>Python-da classlar (Hissə 1): Classlar və obyektlərin yaradılması</title>
       <link>https://javidkhasizada.xyz/posts/pythonda-classlar-hisse-1-classlar-ve-obyektlerin-yaradilmasi/</link>
